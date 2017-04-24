@@ -1,6 +1,6 @@
 # LetterMeter
 
-![LFM_128.png]()
+![](LFM_128.png)
 
 A text analysis tool, developed for postgraduate TypeMedia course at the Royal Academy of Arts in The Hague. LetterFrequencyMeter will generate a list of glyphs sorted by the frequency of use, and it will analyze text according to its formal attributes. This version will recognize Latin, Cyrillic, and Greek glyphs.
 
