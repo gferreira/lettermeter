@@ -12,4 +12,8 @@ Inspired by [Ligature Counter](http://www.volcanokit.com/volcanokit2/ligCounter)
 
 ## LetterMeter RoboFont extension
 
-*The original MacOSX app stopped working some years ago. This is a revival as a RoboFont extension, using the original text analysis code by JvR (provided by PB).*
+![](LetterMeter_RF-extension.png)
+
+*The original MacOSX app stopped working some years ago.*
+
+*This is a revival of Letter Frequency Meter as a RoboFont extension, using the original text analysis code.*
