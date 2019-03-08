@@ -1,14 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import LetterMeter_lib
-reload(LetterMeter_lib)
+# from importlib import reload
+# import LetterMeter_lib
+# reload(LetterMeter_lib)
 
 from vanilla import *
 from AppKit import NSFont, NSColor
 from LetterMeter_lib import *
 
-placeholder_txt = u'''\
+placeholder_txt = '''\
 Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er
 sich in seinem Bett zu einem ungeheuren Ungeziefer verwandelt. Er lag
 auf seinem panzerartig harten Rücken und sah, wenn er den Kopf ein wenig
@@ -133,4 +134,3 @@ class LetterMeter(object):
 if __name__ == '__main__':
 
     LetterMeter()
-

@@ -1,12 +1,16 @@
 import os
 
 def readGroups():
-    path = os.path.join(os.path.dirname(__file__), "CharacterGroups.txt")
+    print('HOHOHOHO!!!')
+    base_folder = os.path.dirname(os.path.dirname(__file__))
+    path = os.path.join(base_folder, 'resources', "CharacterGroups.txt")
     groups = {}
-    for line in file(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+    for line in lines:
         items = line.split("\t")
         if len(items) > 1:
-            char = unichr(int(items[0], 16))
+            char = chr(int(items[0], 16))
             charGroups = []
             for g in items[2:]:
                 g = g.strip()
@@ -38,7 +42,7 @@ if 0:
     for gg in groups.values():
         for g in gg:
             longest = max(longest, len(g))
-    print "XXX", longest
+    # print("XXX", longest)
 
 def stripPunctuation(s):
     from unicodedata import category

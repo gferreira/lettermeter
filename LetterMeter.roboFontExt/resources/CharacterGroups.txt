@@ -260,69 +260,69 @@
 017E	LATIN SMALL LETTER Z WITH CARON	consonant	left_diagonal	right_diagonal	accented
 
 0410	capital "A"	vowel	left_diagonal	right_diagonal
-0411	capital "„A"	consonant	left_square	right_open
-0412	capital "„B	consonant	left_square	right_round
-0413	capital "„C"	consonant	left_square	open_right
-0414	capital "„D"	consonant	left_diagonal	right_square	descender
-0415	capital "„E"	vowel	left_square	right_open
-0416	capital "„G"	consonant	left_diagonal	right_diagonal
-0417	capital "„H"	consonant	left_open	right_round
-0418	capital "„I"	vowel	left_square	right_square
-0419	capital "„J"	consonant	left_square	right_square	accented
-041A	capital "„K"	consonant	left_square	right_diagonal
-041B	capital "„L"	consonant	left_diagonal	right_square
-041C	capital "„M"	consonant	left_square	right_square
-041D	capital "„N"	consonant	left_square	right_square
+0411	capital "â€A"	consonant	left_square	right_open
+0412	capital "â€B	consonant	left_square	right_round
+0413	capital "â€C"	consonant	left_square	open_right
+0414	capital "â€D"	consonant	left_diagonal	right_square	descender
+0415	capital "â€E"	vowel	left_square	right_open
+0416	capital "â€G"	consonant	left_diagonal	right_diagonal
+0417	capital "â€H"	consonant	left_open	right_round
+0418	capital "â€I"	vowel	left_square	right_square
+0419	capital "â€J"	consonant	left_square	right_square	accented
+041A	capital "â€K"	consonant	left_square	right_diagonal
+041B	capital "â€L"	consonant	left_diagonal	right_square
+041C	capital "â€M"	consonant	left_square	right_square
+041D	capital "â€N"	consonant	left_square	right_square
 041E	capital "O"	vowel	left_round	right_round
-041F	capital "„P"	consonant	left_square	right_square
-0420	capital "„Q"	consonant	left_square	right_round
-0421	capital "„R"	consonant	left_round	right_open
+041F	capital "â€P"	consonant	left_square	right_square
+0420	capital "â€Q"	consonant	left_square	right_round
+0421	capital "â€R"	consonant	left_round	right_open
 0422	capital "T"	consonant	left_open	right_open
-0423	capital "„T"	vowel	left_diagonal	right_diagonal
-0424	capital "„U"	consonant	left_round	right_round
-0425	capital "„V"	consonant	left_diagonal	right_diagonal
-0426	capital "„W"	consonant	left_square	right_square	descender
-0427	capital "„X"	consonant	left_open	right_square
-0428	capital "„Y"	consonant	left_square	right_square
-0429	capital "„Z"	consonant	left_square	right_square	descender
-042A	capital "„["	consonant	left_open	right_round
-042B	capital "„\"	vowel	left_square	right_square
-042C	capital "„]"	consonant	left_square	right_round
-042D	capital "„^"	vowel	left_open	right_round
-042E	capital "„_"	vowel	left_square	right_round
-042F	capital "„`"	vowel	left_round	right_square
+0423	capital "â€T"	vowel	left_diagonal	right_diagonal
+0424	capital "â€U"	consonant	left_round	right_round
+0425	capital "â€V"	consonant	left_diagonal	right_diagonal
+0426	capital "â€W"	consonant	left_square	right_square	descender
+0427	capital "â€X"	consonant	left_open	right_square
+0428	capital "â€Y"	consonant	left_square	right_square
+0429	capital "â€Z"	consonant	left_square	right_square	descender
+042A	capital "â€["	consonant	left_open	right_round
+042B	capital "â€\"	vowel	left_square	right_square
+042C	capital "â€]"	consonant	left_square	right_round
+042D	capital "â€^"	vowel	left_open	right_round
+042E	capital "â€_"	vowel	left_square	right_round
+042F	capital "â€`"	vowel	left_round	right_square
 0430	small "a"	vowel	left_open	right_square
-0431	small "„q"	consonant	left_round	right_round	ascender
-0432	small "„r"	consonant	left_square	right_round
-0433	small "„s"	consonant	left_square	right_open
-0434	small "„t"	consonant	left_diagonal	right_square
-0435	small "„u"	vowel	left_open	right_open
-0436	small "„w"	consonant	left_open	right_open
-0437	small "„x"	consonant	left_open	right_round
-0438	small "„y"	vowel	left_square	right_square
-0439	small "„z"	consonant	left_square	right_square	accented
-043A	small "„{"	consonant	left_square	right_open
-043B	small "„|"	consonant	left_square	right_square
-043C	small "„}"	consonant	left_square	right_square
-043D	small "„~"	consonant	left_square	right_square
-043E	small "„€"	vowel	left_round	right_round
-043F	small "„"	consonant	left_square	right_square
-0440	small "„‚"	consonant	left_square	right_round	descender
-0441	small "„ƒ"	consonant	left_round	right_open
-0442	small "„„"	consonant	left_open	right_open;
-0443	small "„…"	vowel	left_open	right_open
-0444	small "„†"	consonant	left_round	right_round	ascender	descender
-0445	small "„‡"	consonant	left_diagonal	right_diagonal
-0446	small "„ˆ"	consonant	left_square	right_square	descender
-0447	small "„‰"	consonant	left_round	right_square
-0448	small "„Š"	consonant	left_square	right_square
-0449	small "„‹"	consonant	left_square	right_square	descender
-044A	small "„Œ"	consonant	left_open	right_round
-044B	small "„"	vowel	left_square	right_square
-044C	small "„"	consonant	left_square	right_round
-044D	small "„"	vowel	left_open	right_round
-044E	small "„"	vowel	left_square	right_round
-044F	small "„‘"	vowel	left_round	right_square
+0431	small "â€q"	consonant	left_round	right_round	ascender
+0432	small "â€r"	consonant	left_square	right_round
+0433	small "â€s"	consonant	left_square	right_open
+0434	small "â€t"	consonant	left_diagonal	right_square
+0435	small "â€u"	vowel	left_open	right_open
+0436	small "â€w"	consonant	left_open	right_open
+0437	small "â€x"	consonant	left_open	right_round
+0438	small "â€y"	vowel	left_square	right_square
+0439	small "â€z"	consonant	left_square	right_square	accented
+043A	small "â€{"	consonant	left_square	right_open
+043B	small "â€|"	consonant	left_square	right_square
+043C	small "â€}"	consonant	left_square	right_square
+043D	small "â€~"	consonant	left_square	right_square
+043E	small "â€â‚¬"	vowel	left_round	right_round
+043F	small "â€Â"	consonant	left_square	right_square
+0440	small "â€â€š"	consonant	left_square	right_round	descender
+0441	small "â€Æ’"	consonant	left_round	right_open
+0442	small "â€â€"	consonant	left_open	right_open;
+0443	small "â€â€¦"	vowel	left_open	right_open
+0444	small "â€â€ "	consonant	left_round	right_round	ascender	descender
+0445	small "â€â€¡"	consonant	left_diagonal	right_diagonal
+0446	small "â€Ë†"	consonant	left_square	right_square	descender
+0447	small "â€â€°"	consonant	left_round	right_square
+0448	small "â€Å "	consonant	left_square	right_square
+0449	small "â€â€¹"	consonant	left_square	right_square	descender
+044A	small "â€Å’"	consonant	left_open	right_round
+044B	small "â€Â"	vowel	left_square	right_square
+044C	small "â€Å½"	consonant	left_square	right_round
+044D	small "â€Â"	vowel	left_open	right_round
+044E	small "â€Â"	vowel	left_square	right_round
+044F	small "â€â€˜"	vowel	left_round	right_square
 0401	capital "Yo"	vowel 	left_square	right_open	accented
 0451	small "yo"	vowel 	left_round	right_round	accented
 
