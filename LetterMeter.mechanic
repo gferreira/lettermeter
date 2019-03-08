@@ -1,0 +1,9 @@
+description: Text-analysis tool for comparing multilingual texts and measuring the frequency of particular glyphs.
+developer: Typotheque
+developerURL: http://typotheque.com/
+extensionName: LetterMeter
+extensionPath: LetterMeter.roboFontExt
+icon: http://github.com/gferreira/lettermeter/raw/master/LFM_128.png
+repository: https://github.com/gferreira/lettermeter
+tags: [text]
+dateAdded: 2019-03-08 12:00:00
